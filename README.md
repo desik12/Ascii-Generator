@@ -11,7 +11,7 @@ pip install pyfiglet
 ```python
 import pyfiglet
 
-ascii_banner = pyfiglet.figlet_format("Pero el banyo huele a mierda")
+ascii_banner = pyfiglet.figlet_format("Hello World!")
 print(ascii_banner)
 
 ````
